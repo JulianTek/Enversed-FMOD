@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{fd73a8c7-00ed-4f66-80cd-de79c790d4c0}">
+		<property name="name">
+			<value>isInCockpit</value>
+		</property>
+		<relationship name="folder">
+			<destination>{070d820c-9ada-413a-9a2b-f8e0ee0c223f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{721406d2-b8b2-4cf4-bb2e-8a1ee8aaf70f}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{721406d2-b8b2-4cf4-bb2e-8a1ee8aaf70f}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

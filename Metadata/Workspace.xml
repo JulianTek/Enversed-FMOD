@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{aa91de26-3cbb-41a6-9126-082155711620}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Games/enversed/Assets/FMOD Banks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{24eaf1f0-3a16-482d-9bd6-9a43a99b395d}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{79a10edc-5c69-42f7-a070-389c6f0bff06}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{96b7f5a5-cd41-41f6-a834-d583a7e5dce5}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{070d820c-9ada-413a-9a2b-f8e0ee0c223f}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{304aa693-fecc-4c90-85b4-b0c5873c659a}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{1d18a553-118c-490f-ac97-bbb9f71919f1}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{83dc7852-fae6-4ced-a59c-bf8692bb4a06}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{f2d4f347-6c8c-4691-a9df-24f155bef435}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{2667b485-3b87-4b2d-86f6-739eb3013d57}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{5bd1bb19-a972-405f-9e82-7ec2bde727ba}</destination>
+		</relationship>
+	</object>
+</objects>
